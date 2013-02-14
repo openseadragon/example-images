@@ -1,4 +1,4 @@
-highsmith-dzi
-=============
+Example-Images
+==============
 
-Example DZI file for OpenSeadragon site
+Example images for OpenSeadragon site. All the action's in the gh-pages branch.
