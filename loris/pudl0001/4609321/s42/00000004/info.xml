@@ -23,5 +23,5 @@
 		<quality>color</quality>
 	</qualities>
 	<profile>http://library.stanford.edu/iiif/image-api/compliance.html#level1</profile>
-	<image_host>http://img.princeton.edu/loris</image_host>
+	<image_host>http://lorisimg.princeton.edu/loris</image_host>
 </info>
