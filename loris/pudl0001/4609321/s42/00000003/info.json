@@ -8,5 +8,5 @@
     "formats" : [ "jpg", "png" ],   
     "qualities" : ["native", "bitonal", "grey", "color"],   
     "profile" : "http://library.stanford.edu/iiif/image-api/compliance.html#level1",
-    "image_host" : "http://img.princeton.edu/loris"
+    "image_host" : "http://lorisimg.princeton.edu/loris"
 }
